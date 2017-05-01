@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "allowJs": true,
+    "moduleResolution": "node",
+    "noEmitOnError": false,
+    "noEmit": true,
+    "baseUrl": ".",
+    "paths": {
+      "app-with-typescript/tests/*": ["tests/*"],
+      "app-with-typescript/*": ["app/*"]
+    }
+  },
+  "include": [
+    "app/**/*",
+    "tests/**/*"
+  ]
+}
