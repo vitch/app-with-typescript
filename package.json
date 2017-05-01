@@ -15,6 +15,7 @@
     "test": "ember test"
   },
   "devDependencies": {
+    "addon-with-typescript": "vitch/addon-with-typescript",
     "broccoli-asset-rev": "^2.4.5",
     "ember-ajax": "^3.0.0",
     "ember-cli": "2.13.0",
