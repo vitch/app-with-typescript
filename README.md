@@ -1,7 +1,10 @@
 # app-with-typescript
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This application shows how to consume an addon which uses `ember-cli-typescript`
+
+There isn't really anything to it - you just need to `ember install ember-cli-typescript`
+in the app as well as the addon. Ideally your addon should do this anyway in it's 
+default blueprint so that anyone consuming the addon doesn't need to think about it
 
 ## Prerequisites
 
